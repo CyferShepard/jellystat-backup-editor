@@ -1,0 +1,16 @@
+/* src/components/ItemList.css */
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* This will make the container take the full height of the viewport */
+  }
+  
+  ul {
+    /* Add any specific styling for the list if needed */
+    list-style-type: none;
+    padding: 0;
+  }
+  
